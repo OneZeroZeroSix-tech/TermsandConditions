@@ -1,0 +1,164 @@
+<html lang="en">
+<meta charset="UTF-8">
+<title>DIMMR</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family:"Times New Roman", serif}
+h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
+</style>
+<body>
+
+<!-- Navigation (Sits on top) -->
+<div class="w3-top w3-bar w3-white w3-padding w3-card w3-wide">
+<a href="#home" class="w3-bar-item w3-button" style="font-size: 30px; color: purple; font-weight: bold;">DIMMR</a>
+
+</div>
+
+<!-- Start Content -->
+<div id="home" class="w3-content">
+
+<!-- Image in Display Container -->
+<div class="w3-padding-top-48">
+<div class="w3-display-container">
+<br><br>
+
+</div>
+</div>
+<h1 class="w3-center" style="font-weight: bold;">Terms and Conditions</h1><br>
+
+<p>Effective Date: July 13, 2025.</p>
+<p>Last Updated: July 13, 2025.</p>
+<p>Welcome to DIMMR ("we", "us", "our", or the "Platform"). These Terms and Conditions ("Terms") govern your access to and use of our website, mobile applications, and services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use the Services.
+</p>
+
+<!-- About -->
+<div>
+<span style="font-size: 20px; font-weight: bold;">1. Eligibility</span>
+<p>You must be at least [13/16/18] years of age, or the age of legal majority in your jurisdiction, to use our Services. By registering, accessing, or using our Services, you represent and warrant that:</p>
+
+<ul>
+<li><p>You are legally permitted to enter into a binding agreement;</p></li>
+<li><p>You will comply with these Terms and all applicable local, state, national, and international laws.</p></li>
+</ul>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">2. Account Registration and Security</span>
+<p>2.1 To access certain features of our Services, you may be required to create an account. You agree to:</p>
+
+<ul>
+<li><p>Provide accurate, current, and complete information during the registration process;</p></li>
+<li><p>Maintain the security of your password and login credentials;</p></li>
+<li><p>Notify us immediately of any unauthorized access to or use of your account.</p></li>
+</ul>
+
+<p>2.2 You are solely responsible for all activities that occur under your account. We reserve the right to suspend or terminate your account if any information provided during registration or thereafter is inaccurate, false, or misleading.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">3. User Conduct</span>
+<p>You agree that you will not use the Platform to:</p>
+
+<ul>
+<li><p>Post, upload, or share any content that is unlawful, threatening, abusive, defamatory, obscene, harassing, or racially or ethnically offensive;</p></li>
+<li><p>Promote or engage in violence, discrimination, hatred, or harm against any group or individual;</p></li>
+<li><p>Impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;</p></li>
+<li><p>Use automated scripts or bots to collect information from the Platform or to interact with the Services;</p></li>
+<li><p>Attempt to hack, disrupt, or gain unauthorized access to other accounts, systems, or networks;</p></li>
+<li><p>Distribute viruses or any other technologies that may harm the Platform, users, or interests or property of other users.</p></li>
+</ul>
+
+<p>We reserve the right to investigate and take appropriate legal action against anyone who violates this provision.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">4. User-Generated Content</span>
+<p>4.1 You retain ownership of all content, including photos, posts, comments, messages, and other materials ("User Content") that you upload, publish, or display on the Platform.</p>
+<p>4.2 By posting User Content, you grant DIMMR a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, modify, distribute, publicly perform, and publicly display such content on and through the Platform for the purposes of operating and promoting our Services.</p>
+<p>4.3 You are solely responsible for your User Content. We reserve the right (but not the obligation) to monitor, remove, or modify User Content that we, in our sole discretion, believe violates these Terms or is otherwise harmful, offensive, or inappropriate.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">5. Privacy</span>
+<p>Your privacy is important to us. Please read our <a style="text-decoration: none; color: blue;" href="privacy.html">Privacy Policy</a> to understand how we collect, use, and protect your personal information. By using our Services, you agree to the collection and use of information in accordance with the Privacy Policy.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">6. Intellectual Property Rights</span>
+<p>6.1 The Platform and its entire contents, features, and functionality, including but not limited to all information, software, text, displays, images, video, audio, and the design, selection, and arrangement thereof, are owned by DIMMR, its licensors, or other providers of such material.</p>
+<p>6.2 Except as expressly authorized by us, you may not copy, modify, reproduce, republish, distribute, transmit, display, perform, or create derivative works from any part of the Platform.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">7. Third-Party Services and Links</span>
+<p>The Platform may contain links to third-party websites, services, or resources that are not owned or controlled by us. We are not responsible for the content, policies, or practices of any third-party websites or services. Your use of third-party services is subject to the terms and policies of those third parties.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">8. Termination</span>
+<p>8.1 We reserve the right to suspend or terminate your account and access to the Services, with or without notice, if you violate these Terms or if we determine, in our sole discretion, that your use of the Platform may cause harm to us or any user.</p>
+<p>8.2 Upon termination, your right to use the Services will immediately cease. All provisions of these Terms which by their nature should survive termination shall survive, including ownership provisions, warranty disclaimers, and limitations of liability.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">9. Disclaimers</span>
+<p>The Services are provided on an "AS IS" and "AS AVAILABLE" basis. We do not warrant that the Services will be uninterrupted, error-free, secure, or free from viruses or other harmful components. To the fullest extent permitted by law, we disclaim all warranties, express or implied.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">10. Limitation of Liability</span>
+<p>To the maximum extent permitted by law, in no event shall DIMMR, its affiliates, directors, employees, agents, or licensors be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, arising from:</p>
+
+<ul>
+<li><p>Your use of or inability to use the Services;</p></li>
+<li><p>Any unauthorized access to or use of our servers;</p></li>
+<li><p>Any bugs, viruses, or other harmful code transmitted via the Services;</p></li>
+<li><p>Any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content.</p></li>
+</ul>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">11. Indemnification</span>
+<p>You agree to defend, indemnify, and hold harmless DIMMR, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, and expenses arising out of or in any way connected with:</p>
+
+<ul>
+<li><p>Your access to or use of the Services;</p></li>
+<li><p>Your violation of these Terms;</p></li>
+<li><p>Your User Content or any content you share through the Platform.</p></li>
+</ul>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">12. Modifications to the Terms</span>
+<p>We reserve the right to update or modify these Terms at any time. If we make material changes, we will notify you by posting the new Terms on our website or through other communication channels. Your continued use of the Services after any modification indicates your acceptance of the revised Terms.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">13. Governing Law and Jurisdiction</span>
+<p>These Terms shall be governed and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions. Any legal action or proceeding arising under these Terms shall be brought exclusively in the courts of the State of California, United States.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">14. Miscellaneous</span>
+
+<ul>
+<li><p>These Terms constitute the entire agreement between you and DIMMR regarding the use of the Services.</p></li>
+<li><p>If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.</p></li>
+<li><p>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights.</p></li>
+</ul>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">15. Contact Us</span>
+<p>If you have any questions or concerns about these Terms, please contact us at:</p>
+<p>Email: shwethha10@gmail.com</p>
+<p>Address: Palo Alto, CA, 94304</p>
+</div><br><br><br><br>
+ 
+
+<!-- End Content -->
+</div>
+
+</body>
+</html>
