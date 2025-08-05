@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <!-- Navigation (Sits on top) -->
 <div class="w3-top w3-bar w3-white w3-padding w3-card w3-wide">
-<a href="#home" class="w3-bar-item w3-button" style="font-size: 30px; color: purple; font-weight: bold;">DIMMR</a>
+<a href="#home" class="w3-bar-item w3-button" style="font-size: 30px; color: purple; font-weight: bold;">Flara</a>
 
 </div>
 
