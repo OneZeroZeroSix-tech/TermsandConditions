@@ -1,6 +1,6 @@
 <html lang="en">
 <meta charset="UTF-8">
-<title>DIMMR</title>
+<title>Flara</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
