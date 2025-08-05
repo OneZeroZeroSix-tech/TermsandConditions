@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <h1 class="w3-center" style="font-weight: bold;">Terms and Conditions</h1><br>
 
 <p>Effective Date: July 13, 2025.</p>
-<p>Last Updated: July 13, 2025.</p>
+<p>Last Updated: August 05, 2025.</p>
 <p>Welcome to Flara ("we", "us", "our", or the "Platform"). These Terms and Conditions ("Terms") govern your access to and use of our website, mobile applications, and services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use the Services.
 </p>
 
