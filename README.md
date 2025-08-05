@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <p>Effective Date: July 13, 2025.</p>
 <p>Last Updated: July 13, 2025.</p>
-<p>Welcome to DIMMR ("we", "us", "our", or the "Platform"). These Terms and Conditions ("Terms") govern your access to and use of our website, mobile applications, and services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use the Services.
+<p>Welcome to Flara ("we", "us", "our", or the "Platform"). These Terms and Conditions ("Terms") govern your access to and use of our website, mobile applications, and services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use the Services.
 </p>
 
 <!-- About -->
@@ -143,7 +143,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <span style="font-size: 20px; font-weight: bold;">14. Miscellaneous</span>
 
 <ul>
-<li><p>These Terms constitute the entire agreement between you and DIMMR regarding the use of the Services.</p></li>
+<li><p>These Terms constitute the entire agreement between you and FLARA regarding the use of the Services.</p></li>
 <li><p>If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.</p></li>
 <li><p>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights.</p></li>
 </ul>
