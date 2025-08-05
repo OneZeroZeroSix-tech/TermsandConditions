@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <div>
 <span style="font-size: 20px; font-weight: bold;">4. User-Generated Content</span>
 <p>4.1 You retain ownership of all content, including photos, posts, comments, messages, and other materials ("User Content") that you upload, publish, or display on the Platform.</p>
-<p>4.2 By posting User Content, you grant DIMMR a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, modify, distribute, publicly perform, and publicly display such content on and through the Platform for the purposes of operating and promoting our Services.</p>
+<p>4.2 By posting User Content, you grant Flara a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, modify, distribute, publicly perform, and publicly display such content on and through the Platform for the purposes of operating and promoting our Services.</p>
 <p>4.3 You are solely responsible for your User Content. We reserve the right (but not the obligation) to monitor, remove, or modify User Content that we, in our sole discretion, believe violates these Terms or is otherwise harmful, offensive, or inappropriate.</p>
 </div>
 
@@ -86,7 +86,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <div>
 <span style="font-size: 20px; font-weight: bold;">6. Intellectual Property Rights</span>
-<p>6.1 The Platform and its entire contents, features, and functionality, including but not limited to all information, software, text, displays, images, video, audio, and the design, selection, and arrangement thereof, are owned by DIMMR, its licensors, or other providers of such material.</p>
+<p>6.1 The Platform and its entire contents, features, and functionality, including but not limited to all information, software, text, displays, images, video, audio, and the design, selection, and arrangement thereof, are owned by Flara, its licensors, or other providers of such material.</p>
 <p>6.2 Except as expressly authorized by us, you may not copy, modify, reproduce, republish, distribute, transmit, display, perform, or create derivative works from any part of the Platform.</p>
 </div>
 
@@ -108,7 +108,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <div>
 <span style="font-size: 20px; font-weight: bold;">10. Limitation of Liability</span>
-<p>To the maximum extent permitted by law, in no event shall DIMMR, its affiliates, directors, employees, agents, or licensors be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, arising from:</p>
+<p>To the maximum extent permitted by law, in no event shall Flara, its affiliates, directors, employees, agents, or licensors be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, arising from:</p>
 
 <ul>
 <li><p>Your use of or inability to use the Services;</p></li>
@@ -120,7 +120,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <div>
 <span style="font-size: 20px; font-weight: bold;">11. Indemnification</span>
-<p>You agree to defend, indemnify, and hold harmless DIMMR, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, and expenses arising out of or in any way connected with:</p>
+<p>You agree to defend, indemnify, and hold harmless Flara, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, and expenses arising out of or in any way connected with:</p>
 
 <ul>
 <li><p>Your access to or use of the Services;</p></li>
