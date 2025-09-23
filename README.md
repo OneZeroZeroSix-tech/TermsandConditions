@@ -153,7 +153,6 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <span style="font-size: 20px; font-weight: bold;">15. Contact Us</span>
 <p>If you have any questions or concerns about these Terms, please contact us at:</p>
 <p>Email: shwethha10@gmail.com</p>
-<p>Address: Palo Alto, CA, 94304</p>
 </div><br><br><br><br>
  
 
