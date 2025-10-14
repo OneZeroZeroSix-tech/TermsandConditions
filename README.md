@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <p>Effective Date: July 13, 2025.</p>
 <p>Last Updated: August 05, 2025.</p>
-<p>Welcome to Flara ("we", "us", "our", or the "Platform"). These Terms and Conditions ("Terms") govern your access to and use of our website, mobile applications, and services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use the Services.
+<p>Welcome to Flaraa ("we", "us", "our", or the "Platform"). These Terms and Conditions ("Terms") govern your access to and use of our website, mobile applications, and services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use the Services.
 </p>
 
 <!-- About -->
@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <div>
 <span style="font-size: 20px; font-weight: bold;">4. User-Generated Content</span>
 <p>4.1 You retain ownership of all content, including photos, posts, comments, messages, and other materials ("User Content") that you upload, publish, or display on the Platform.</p>
-<p>4.2 By posting User Content, you grant Flara a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, modify, distribute, publicly perform, and publicly display such content on and through the Platform for the purposes of operating and promoting our Services.</p>
+<p>4.2 By posting User Content, you grant Flaraa a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, modify, distribute, publicly perform, and publicly display such content on and through the Platform for the purposes of operating and promoting our Services.</p>
 <p>4.3 You are solely responsible for your User Content. We reserve the right (but not the obligation) to monitor, remove, or modify User Content that we, in our sole discretion, believe violates these Terms or is otherwise harmful, offensive, or inappropriate.</p>
 </div>
 
@@ -108,7 +108,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <div>
 <span style="font-size: 20px; font-weight: bold;">10. Limitation of Liability</span>
-<p>To the maximum extent permitted by law, in no event shall Flara, its affiliates, directors, employees, agents, or licensors be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, arising from:</p>
+<p>To the maximum extent permitted by law, in no event shall Flaraa, its affiliates, directors, employees, agents, or licensors be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, arising from:</p>
 
 <ul>
 <li><p>Your use of or inability to use the Services;</p></li>
@@ -120,7 +120,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 
 <div>
 <span style="font-size: 20px; font-weight: bold;">11. Indemnification</span>
-<p>You agree to defend, indemnify, and hold harmless Flara, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, and expenses arising out of or in any way connected with:</p>
+<p>You agree to defend, indemnify, and hold harmless Flaraa, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, and expenses arising out of or in any way connected with:</p>
 
 <ul>
 <li><p>Your access to or use of the Services;</p></li>
@@ -143,7 +143,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <span style="font-size: 20px; font-weight: bold;">14. Miscellaneous</span>
 
 <ul>
-<li><p>These Terms constitute the entire agreement between you and FLARA regarding the use of the Services.</p></li>
+<li><p>These Terms constitute the entire agreement between you and FLARAA regarding the use of the Services.</p></li>
 <li><p>If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.</p></li>
 <li><p>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights.</p></li>
 </ul>
